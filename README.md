@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-**[Click Here to View Live Demo]( https://abhinaypedhapati.github.io/CodeVerse/)**
+**[( https://abhinaypedhapati.github.io/CodeVerse/)**
 *(Replace YOUR_USERNAME with your GitHub username after deployment)*
 
 ## 🛠️ Technologies Used
